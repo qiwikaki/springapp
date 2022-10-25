@@ -9,7 +9,8 @@
 
     <context:component-scan base-package="ivan.projects.springcourse"/>
 
-<!--    <context:property-placeholder location="classpath:musicPlayer.properties"/>-->
+    <context:property-placeholder location="classpath:musicPlayer.properties"/>
+
 
 <!--    <bean id="musicBean"-->
 <!--          class="ivan.projects.springcourse.MetalCoreMusic">-->
